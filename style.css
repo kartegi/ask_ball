@@ -1,0 +1,42 @@
+.all{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+    border-radius: 120px;
+    box-shadow: 0 0 5px rgba(0,0,0,1);
+    background-color: #0000FF;
+
+
+}
+
+
+.prediction{
+  text-align: center;
+  padding-top: 50px;
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.form{
+  text-align: center;
+  padding-top: 10px;
+}
+
+.btn{
+  height: 50px;
+  width: 150px;
+  border-style: none;
+  background-color: white;
+  border-radius: 20px;
+  color: #0000FF;
+  font-family: 'Press Start 2P', cursive;
+
+}
+.btn:hover{
+  background-color: #0000FF;
+  color: white;
+  -webkit-transition-duration: 2s;
+}
